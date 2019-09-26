@@ -1,4 +1,4 @@
-asdasdasdasasThis is text file 3. 
+This is text file 3. 
 
 
 
