@@ -8,4 +8,12 @@ KDJ ASBFKJj qkfhs p h1ioy3op13029 4801`8201u491283-39u8420-491=49`130
 This is text file 2. 
 
 
+
+
+
+
+Editting in baranch 1
+
+
+
 >>>>>>> parent of f039bd7... 3 coomit
